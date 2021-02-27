@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PaulWAyers/IntroQChem/HEAD)
 
+$$\hat{\mathbf{H}} \mathbf{\Psi} = \mathbf{E} \mathbf{\Psi}$$
+
 The notebooks in ipynb directory can be run via mybinder.org by clicking on the badge above.
 
 > **CHEM 3PA3** *Quantum Mechanics and Spectroscopy.* An introduction to quantum chemistry and its applications in spectroscopy and structure and unusual phenomena at the nanoscale.
